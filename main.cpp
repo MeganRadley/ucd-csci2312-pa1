@@ -40,7 +40,9 @@ int main() {
 
     return 0;
 }
+
 //
 //
 //Point myPoint;            // Calls Point::Point(). Notice the lack of parentheses!
 //Point myOtherPoint(5, 3); // Calls two-argument constructor Point::Point(double, double). Notice auto type conversion!
+
